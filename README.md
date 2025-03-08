@@ -35,3 +35,13 @@
 - [ ] Add nice hamburger menu on mobile
 - [ ] Try out the generative UI stuff from Vercel
 - [ ] Add a nicer dropdown overall
+
+
+## What I did
+Deployment Report
+  .Cloned the repository from GitHub and installed dependencies.
+  .Configured environment variables (TOGETHER_API_KEY, SERPER_API_KEY, HELICONE_API_KEY).
+  .Ran the project locally to verify functionality.
+  .Deployed the project to Vercel and set up CI/CD for automatic deployments.
+  .Verified the deployed project at: https://llama-taupe.vercel.app/
+  .Verified that all features work correctly
